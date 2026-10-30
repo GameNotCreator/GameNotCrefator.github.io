@@ -4,6 +4,10 @@ A web-development course project created by **Hedi Fourati and Sarah Ghraddab**,
 
 The original project was titled “Forbes Ranking Newsletter Website” and explored presenting articles and rankings about people, countries and companies. This repository contains a historical school implementation, not the personal portfolio of Hedi Fourati or an official Forbes publication.
 
+## Live website
+
+[Open the school project on GitHub Pages](https://gamenotcreator.github.io/forbes-ranking-school-project/).
+
 ## Prototype features
 
 The original implementation includes navigation, ranking pages, article search, flip cards, embedded maps, 3D media and financial-data embeds.
